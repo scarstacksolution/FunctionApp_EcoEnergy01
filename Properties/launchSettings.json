@@ -1,0 +1,9 @@
+﻿{
+  "profiles": {
+    "FunctionApp_EcoEnergy": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7206",
+      "launchBrowser": false
+    }
+  }
+}
